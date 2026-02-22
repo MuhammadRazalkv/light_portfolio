@@ -60,7 +60,7 @@ function FeaturedProjectCard({
       <div className="flex flex-col md:flex-row md:items-start md:justify-between gap-6">
         <div className="flex-1">
           <div className="flex items-center gap-3 mb-3">
-            <span className="font-mono text-xs text-stone">{project.year}</span>
+            {/* <span className="font-mono text-xs text-stone">{project.year}</span> */}
             <span className="w-1 h-1 rounded-full bg-border" />
             <span className="font-mono text-xs px-2 py-0.5 bg-accent/10 text-accent rounded-full">
               Featured
