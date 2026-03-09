@@ -51,7 +51,7 @@ export const projects = [
       "REST API",
       "Tailwind CSS",
     ],
-    liveUrl: "",
+    liveUrl: "https://cozastore.rasal.sbs",
     githubUrl: "https://github.com/MuhammadRazalkv/Coza-store-Ecom", // replace
     featured: true,
     // year: "2024",
