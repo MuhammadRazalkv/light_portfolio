@@ -197,7 +197,7 @@ export default function Skills() {
               style={{ transitionDelay: "600ms" }}
             >
               <a
-                href="/Rasal_MERN_Developer_Resume.pdf"
+                href="/Rasal kv's Resume.pdf"
                 download
                 className="inline-flex items-center gap-2 font-body text-sm font-medium px-5 py-2.5 border border-white/20 rounded-full text-cream hover:border-accent hover:text-accent transition-all duration-300"
               >
