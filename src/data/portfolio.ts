@@ -31,7 +31,7 @@ export const projects = [
       "Stripe",
       "Geoapify",
     ],
-    liveUrl: "https://nexaride.rasal.sbs/",
+    liveUrl: "https://nexaride.rasalkv.in/",
     githubUrl: "https://github.com/MuhammadRazalkv/NexaRide-Backend",
     featured: true,
     // year: "2025",
@@ -51,7 +51,7 @@ export const projects = [
       "REST API",
       "Tailwind CSS",
     ],
-    liveUrl: "https://cozastore.rasal.sbs",
+    liveUrl: "https://cozastore.rasalkv.in",
     githubUrl: "https://github.com/MuhammadRazalkv/Coza-store-Ecom", // replace
     featured: true,
     // year: "2024",
